@@ -1,0 +1,78 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="description" content="">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>The Sharing Economy</title>
+	<!-- Load Google Font -->
+	<link href="https://fonts.googleapis.com/css?family=Josefin+Sans|Roboto|Titillium+Web|Inconsolata|Lato" rel="stylesheet" type='text/css'>
+	<link rel="stylesheet" href="css/libraries/bootstrap.min.css">
+	<link rel="stylesheet" href="css/libraries/bootstrap-multiselect.css">
+	<link href="css/libraries/nouislider.min.css" rel="stylesheet">
+	<link rel="stylesheet" href="css/libraries/jquery-ui.min.css">
+	<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+	<div class="section-header">Slack Participation Visualizer</div>
+
+	<div class="container">
+		<div class="row">
+			<select class="form-control interaction-header" id="section-selector" onchange="updateCharts()">
+				<option value="all">All Sections</option>
+				<option value="A">Section A</option>
+				<option value="B">Section B</option>
+			</select>
+
+			<select class="form-control interaction-header" id="channel-selector" multiple="multiple" onchange="updateCharts()">
+			</select>
+
+			<select class="form-control interaction-header" id="metric-selector" onchange="updateCharts()">
+				<option value="post">Posts</option>
+				<option value="words">Words</option>
+				<option value="characters">Characters</option>
+			</select>
+
+			<span id="date_0" class="date-label"></span>
+			<div id="slider"></div>
+			<span id="date_1" class="date-label"></span>
+		</div>
+
+		<div class="row">
+			<div class="col-md-6">
+				<div id="total-comparison-chart"></div>
+			</div>
+			<div class="col-md-6">
+				<div id="student-viewer-chart"></div>
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="col-md-6">
+				<div id="time-comparison-chart"></div>
+			</div>
+			<div class="col-md-6">
+				<div id="comment-channel" class="interaction-header"></div>
+				<div id="comment-date" class="interaction-header"></div>
+				<div id="comment-text"></div>
+			</div>
+		</div>
+	</div>
+	<!-- Load JS libraries -->
+	<script src="js/libraries/jquery.min.js"></script>
+	<script src="js/libraries/bootstrap.min.js"></script>
+	<script src="js/libraries/bootstrap-multiselect.js"></script>
+	<script src="js/libraries/d3.min.js"></script>
+	<script src="js/libraries/d3-tip.js"></script>
+	<script src="js/libraries/jquery-ui.min.js"></script>
+	<script src="js/libraries/nouislider.min.js"></script>
+
+	<!-- Handlers and visualizations -->
+	<script src="js/main.js"></script>
+	<script src="js/visualizations/vis-totalbar.js"></script>
+	<script src="js/visualizations/vis-timeline.js"></script>
+	<script src="js/visualizations/vis-studentposts.js"></script>
+
+</body>
+</html>
