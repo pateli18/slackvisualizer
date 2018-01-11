@@ -35,7 +35,7 @@ def get_users(users_to_exclude = []):
 	return users
 
 def get_channel_history(channel_id, channel_name, user_list):
-	data = slack_query('conversations.history', url_data={'channel':channel_id})
+	data = slack_query('conversations.history', url_data={'channel':channel_id, 'count':1000})
 	posts_to_exclude = ['channel_topic', 'channel_join', 'pinned_item', 'bot_message', 'channel_purpose', 'channel_archive', 'channel_name']
 	if 'messages' in data:
 		filtered_data = [message for message in data['messages'] if 'subtype' not in message.keys() or message['subtype'] not in posts_to_exclude]
