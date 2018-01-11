@@ -1,0 +1,2476 @@
+{
+  "5a5000b1aec1a269f123a949": {
+    "name": "A1 Econ Development",
+    "actions": [
+      {
+        "member": "Adam Murray",
+        "type": "updateCard",
+        "action_name": "Done",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Adam Murray",
+        "type": "updateCard",
+        "action_name": "13 - Insert d3 template for Vis 1 (global map)",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Adam Murray",
+        "type": "updateCard",
+        "action_name": "Doing",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Adam Murray",
+        "type": "updateCard",
+        "action_name": "13 - Insert d3 template for Vis 2 (global map)",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Adam Murray",
+        "type": "updateCard",
+        "action_name": "Done",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Adam Murray",
+        "type": "updateCard",
+        "action_name": "13 - Insert d3 template for Vis 2 (global map)",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Corinna Fehst",
+        "type": "updateCard",
+        "action_name": "Doing",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Corinna Fehst",
+        "type": "updateCard",
+        "action_name": "13 - Insert d3 template for Vis 2 (global map)",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Megan White",
+        "type": "updateCard",
+        "action_name": "Sprint 2 backlog",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Corinna Fehst",
+        "type": "updateCard",
+        "action_name": "Product backlog",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Corinna Fehst",
+        "type": "updateCard",
+        "action_name": "Maintain GitHub up to date throughout",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Corinna Fehst",
+        "type": "updateCard",
+        "action_name": "Customize vis 2 to fade other countries when one country is selected",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Corinna Fehst",
+        "type": "addMemberToCard",
+        "action_name": "Customize vis 2 to fade other countries when one country is selected",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Corinna Fehst",
+        "type": "createCard",
+        "action_name": "Sprint 2 backlog",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Corinna Fehst",
+        "type": "updateCard",
+        "action_name": "Sprint 2 backlog",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Corinna Fehst",
+        "type": "updateCard",
+        "action_name": "Sprint 2 backlog",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Megan White",
+        "type": "updateCard",
+        "action_name": "Product backlog",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Megan White",
+        "type": "updateCard",
+        "action_name": "Create reset button for vis 3 (refresh page when clicked)",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Megan White",
+        "type": "updateCard",
+        "action_name": "Product backlog",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Megan White",
+        "type": "updateCard",
+        "action_name": "Fix autoplay feature on Vis 3",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Corinna Fehst",
+        "type": "updateList",
+        "action_name": "Sprint 2 backlog",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Corinna Fehst",
+        "type": "updateList",
+        "action_name": "Sprint 2",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Megan White",
+        "type": "updateList",
+        "action_name": "Product backlog",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Adam Murray",
+        "type": "updateCard",
+        "action_name": "Add time slider to Vis 1",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Corinna Fehst",
+        "type": "updateList",
+        "action_name": "Product Backlog",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Corinna Fehst",
+        "type": "updateList",
+        "action_name": "Sprint 2 backlog",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Corinna Fehst",
+        "type": "updateCard",
+        "action_name": "User stories",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Adam Murray",
+        "type": "updateCard",
+        "action_name": "Sprint 2 backlog",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Adam Murray",
+        "type": "updateCard",
+        "action_name": "Sprint 2 backlog",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Corinna Fehst",
+        "type": "updateCard",
+        "action_name": "Sprint 2 backlog",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Megan White",
+        "type": "updateCard",
+        "action_name": "Sprint 2 backlog",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Corinna Fehst",
+        "type": "updateCard",
+        "action_name": "Sprint 2 backlog",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Adam Murray",
+        "type": "updateCard",
+        "action_name": "Sprint 2 backlog",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Adam Murray",
+        "type": "updateCard",
+        "action_name": "Sprint 2 backlog",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Corinna Fehst",
+        "type": "updateCard",
+        "action_name": "Sprint 2 backlog",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Corinna Fehst",
+        "type": "updateList",
+        "action_name": "Sprint 2 backlog",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Corinna Fehst",
+        "type": "updateList",
+        "action_name": "Sprint 2 backlog",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Corinna Fehst",
+        "type": "updateList",
+        "action_name": "Product Backlog (tasks)",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Corinna Fehst",
+        "type": "updateCard",
+        "action_name": "Product Backlog (tasks)",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Corinna Fehst",
+        "type": "updateCard",
+        "action_name": "Product Backlog (tasks)",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Corinna Fehst",
+        "type": "updateCard",
+        "action_name": "Product Backlog (tasks)",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Corinna Fehst",
+        "type": "updateCard",
+        "action_name": "Product Backlog (tasks)",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Corinna Fehst",
+        "type": "updateCard",
+        "action_name": "Product Backlog (tasks)",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Adam Murray",
+        "type": "deleteCard",
+        "action_name": "Product Backlog (tasks)",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Adam Murray",
+        "type": "deleteCard",
+        "action_name": "Product Backlog (tasks)",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Corinna Fehst",
+        "type": "updateCard",
+        "action_name": "Product Backlog (tasks)",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Corinna Fehst",
+        "type": "updateCard",
+        "action_name": "Product Backlog (tasks)",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Corinna Fehst",
+        "type": "updateCard",
+        "action_name": "Product Backlog (tasks)",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Corinna Fehst",
+        "type": "addMemberToCard",
+        "action_name": "Write text and headers for Vis 3",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Corinna Fehst",
+        "type": "addMemberToCard",
+        "action_name": "Write text and headers for Vis 2",
+        "time": "2018-01-10"
+      }
+    ],
+    "members": [
+      "Megan White",
+      "Adam Murray",
+      "Corinna Fehst"
+    ]
+  },
+  "5a4fa7ca9b9444c95a7b5725": {
+    "name": "A2 Energy Group",
+    "actions": [
+      {
+        "member": "Bukenyae",
+        "type": "updateCard",
+        "action_name": "Sprint 3 Backlog",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Bukenyae",
+        "type": "updateCard",
+        "action_name": "1 - Link the text to data sources.",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Bukenyae",
+        "type": "updateCard",
+        "action_name": "Sprint 3 Backlog",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Bukenyae",
+        "type": "updateCard",
+        "action_name": "8 - Publish a MVP",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Bukenyae",
+        "type": "updateCard",
+        "action_name": "Sprint 3 Backlog",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Bukenyae",
+        "type": "updateCard",
+        "action_name": "13 - Map comparing Foreign Direct Investment across listed countries.",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Bukenyae",
+        "type": "updateCard",
+        "action_name": "Sprint 3 Backlog",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Bukenyae",
+        "type": "updateCard",
+        "action_name": "Make the visual interactive / responsive.",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Anton Tejeda",
+        "type": "updateCard",
+        "action_name": "Sprint 3 Backlog",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Bukenyae",
+        "type": "updateCard",
+        "action_name": "Attempt a few small visuals that complement the bigger piece.",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Anton Tejeda",
+        "type": "updateCard",
+        "action_name": "13 -Test dummy web page (MVP) and proceed to commit to master",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Bukenyae",
+        "type": "updateCard",
+        "action_name": "Sprint 3 Backlog",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Bukenyae",
+        "type": "updateCard",
+        "action_name": "3 - Pick a data set.",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Anton Tejeda",
+        "type": "updateCard",
+        "action_name": "Sprint 3 Backlog",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Anton Tejeda",
+        "type": "updateCard",
+        "action_name": "8- Move data from CSV to TSV format and include in Sublime",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Anton Tejeda",
+        "type": "updateCard",
+        "action_name": "Sprint 3 Backlog",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Anton Tejeda",
+        "type": "updateCard",
+        "action_name": "13 -Format chart and insure appropriate selection of data for X and Y axis",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Henry Peyronnin",
+        "type": "updateCard",
+        "action_name": "Sprint 3 Backlog",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Henry Peyronnin",
+        "type": "updateCard",
+        "action_name": "1- Add explanatory paragraphs about ClimateScope, SDG 7, and progress toward meeting the goal. Also describe the year and source of data.",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Henry Peyronnin",
+        "type": "updateCard",
+        "action_name": "Sprint 3 Backlog",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Henry Peyronnin",
+        "type": "updateCard",
+        "action_name": "Sprint 3 Backlog",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Henry Peyronnin",
+        "type": "updateCard",
+        "action_name": "1- Modify headline for chart.",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Henry Peyronnin",
+        "type": "updateCard",
+        "action_name": "1- Below graph, list several countries that stand out in the data. In subheadings, list several businesses or channels of investment for each country.",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Henry Peyronnin",
+        "type": "updateCard",
+        "action_name": "8- Update data so that it uses 2017 ClimateScope data (to account for expanded scope of dataset and improvements to methodology) and 2014 world bank data.",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Henry Peyronnin",
+        "type": "updateCard",
+        "action_name": "21 -make each country’s dot size correspond with number without electricity as % of world total without electricity.",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Henry Peyronnin",
+        "type": "updateCard",
+        "action_name": "21- Add hover feature.",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Henry Peyronnin",
+        "type": "updateList",
+        "action_name": "Sprint 1 Backlog",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Henry Peyronnin",
+        "type": "updateList",
+        "action_name": "Sprint 3 Backlog",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Henry Peyronnin",
+        "type": "updateList",
+        "action_name": "Sprint 3 Backlog",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Henry Peyronnin",
+        "type": "createList",
+        "action_name": "Sprint 3 Backlog",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Henry Peyronnin",
+        "type": "updateCard",
+        "action_name": "Product Backlog",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Henry Peyronnin",
+        "type": "updateCard",
+        "action_name": "Product Backlog",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Henry Peyronnin",
+        "type": "updateCard",
+        "action_name": "Product Backlog",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Bukenyae",
+        "type": "addMemberToCard",
+        "action_name": "1- Add explanatory paragraphs about ClimateScope, SDG 7, and progress toward meeting the goal. Also describe the year and source of data.",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Bukenyae",
+        "type": "addMemberToCard",
+        "action_name": "1- Modify headline for chart.",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Anton Tejeda",
+        "type": "updateCard",
+        "action_name": "Product Backlog",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Anton Tejeda",
+        "type": "updateCard",
+        "action_name": "Product Backlog",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Anton Tejeda",
+        "type": "updateCard",
+        "action_name": "Product Backlog",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Bukenyae",
+        "type": "addMemberToCard",
+        "action_name": "1- Below graph, list several countries that stand out in the data. In subheadings, list several businesses or channels of investment for each country.",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Anton Tejeda",
+        "type": "updateCard",
+        "action_name": "Product Backlog",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Anton Tejeda",
+        "type": "updateCard",
+        "action_name": "Product Backlog",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Anton Tejeda",
+        "type": "updateCard",
+        "action_name": "Product Backlog",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Anton Tejeda",
+        "type": "updateCard",
+        "action_name": "Product Backlog",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Bukenyae",
+        "type": "addMemberToCard",
+        "action_name": "8- Update data so that it uses 2017 ClimateScope data (to account for expanded scope of dataset and improvements to methodology) and 2014 world bank data.",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Anton Tejeda",
+        "type": "updateCard",
+        "action_name": "Product Backlog",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Anton Tejeda",
+        "type": "updateCard",
+        "action_name": "Product Backlog",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Anton Tejeda",
+        "type": "updateCard",
+        "action_name": "Product Backlog",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Bukenyae",
+        "type": "addMemberToCard",
+        "action_name": "21- Add hover feature.",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Anton Tejeda",
+        "type": "updateCard",
+        "action_name": "Product Backlog",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Anton Tejeda",
+        "type": "updateCard",
+        "action_name": "Product Backlog",
+        "time": "2018-01-10"
+      }
+    ],
+    "members": [
+      "Anton Tejeda",
+      "Henry Peyronnin",
+      "Bukenyae"
+    ]
+  },
+  "5a4fa7a4694787234e702a84": {
+    "name": "A3 - Criminal Justice Project",
+    "actions": [
+      {
+        "member": "Jackson Wright",
+        "type": "updateCard",
+        "action_name": "Done",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Jackson Wright",
+        "type": "updateCard",
+        "action_name": "-10 - Change trello background to peace sign",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Michael Ho",
+        "type": "updateCard",
+        "action_name": "Doing",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Michael Ho",
+        "type": "updateCard",
+        "action_name": "Doing",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Michael Ho",
+        "type": "updateCard",
+        "action_name": "Doing",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Jackson Wright",
+        "type": "updateCard",
+        "action_name": "Product Backlog",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Jackson Wright",
+        "type": "updateCard",
+        "action_name": "Sprint 2 Backlog",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Jackson Wright",
+        "type": "updateCard",
+        "action_name": "Create chart \"headlines\" and \"decks\"",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Jackson Wright",
+        "type": "updateCard",
+        "action_name": "Sprint 2 Backlog",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Jackson Wright",
+        "type": "updateCard",
+        "action_name": "Testing charts/Test final product",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Jackson Wright",
+        "type": "updateCard",
+        "action_name": "Sprint 2 Backlog",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Jackson Wright",
+        "type": "updateCard",
+        "action_name": "Review and refine styles + format",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Jackson Wright",
+        "type": "updateCard",
+        "action_name": "Product Backlog",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Jackson Wright",
+        "type": "updateCard",
+        "action_name": "Product Backlog",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Jackson Wright",
+        "type": "updateCard",
+        "action_name": "Product Backlog",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Michael Ho",
+        "type": "updateCard",
+        "action_name": "Product Backlog",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Jackson Wright",
+        "type": "updateCard",
+        "action_name": "Product Backlog",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Jackson Wright",
+        "type": "updateCard",
+        "action_name": "Product Backlog",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Jackson Wright",
+        "type": "updateCard",
+        "action_name": "Product Backlog",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Jackson Wright",
+        "type": "updateCard",
+        "action_name": "Sprint 2 Backlog",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Jackson Wright",
+        "type": "updateCard",
+        "action_name": "Create main take away bullet points in the index page that summarizes each visualization",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Jackson Wright",
+        "type": "updateCard",
+        "action_name": "Product Backlog",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Jackson Wright",
+        "type": "updateCard",
+        "action_name": "Product Backlog",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Jackson Wright",
+        "type": "updateCard",
+        "action_name": "Product Backlog",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Michael Ho",
+        "type": "updateCard",
+        "action_name": "Sprint 2 Backlog",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Michael Ho",
+        "type": "updateCard",
+        "action_name": "Sprint 2 Backlog",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Michael Ho",
+        "type": "updateCard",
+        "action_name": "Sprint 2 Backlog",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Michael Ho",
+        "type": "updateCard",
+        "action_name": "Sprint 2 Backlog",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Michael Ho",
+        "type": "updateCard",
+        "action_name": "Sprint 2 Backlog",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Jackson Wright",
+        "type": "updateCard",
+        "action_name": "Sprint 2 Backlog",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Michael Ho",
+        "type": "updateCard",
+        "action_name": "Sprint 2 Backlog",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Michael Ho",
+        "type": "updateCard",
+        "action_name": "Sprint 2 Backlog",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Michael Ho",
+        "type": "updateCard",
+        "action_name": "Sprint 2 Backlog",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Michael Ho",
+        "type": "updateCard",
+        "action_name": "Sprint 2 Backlog",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Michael Ho",
+        "type": "updateCard",
+        "action_name": "Sprint 2 Backlog",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Michael Ho",
+        "type": "updateCard",
+        "action_name": "Sprint 2 Backlog",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Michael Ho",
+        "type": "updateCard",
+        "action_name": "Sprint 2 Backlog",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Jackson Wright",
+        "type": "updateCard",
+        "action_name": "Sprint 2 Backlog",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "dphilipsog",
+        "type": "updateBoard",
+        "action_name": null,
+        "time": "2018-01-10"
+      },
+      {
+        "member": "dphilipsog",
+        "type": "updateBoard",
+        "action_name": null,
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Marta Garnelo",
+        "type": "updateCard",
+        "action_name": "Sprint 2 Backlog",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Jackson Wright",
+        "type": "updateCard",
+        "action_name": "Doing",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "dphilipsog",
+        "type": "updateBoard",
+        "action_name": null,
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Jackson Wright",
+        "type": "updateCard",
+        "action_name": "Doing",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Jackson Wright",
+        "type": "updateCard",
+        "action_name": "Change trello background to peace sign",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Michael Ho",
+        "type": "updateCard",
+        "action_name": "Sprint 2 Backlog",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Marta Garnelo",
+        "type": "deleteCard",
+        "action_name": "Sprint 2 Backlog",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Marta Garnelo",
+        "type": "updateCard",
+        "action_name": "Sprint 2 Backlog",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Jackson Wright",
+        "type": "updateCard",
+        "action_name": "Doing",
+        "time": "2018-01-10"
+      },
+      {
+        "member": "Michael Ho",
+        "type": "updateCard",
+        "action_name": "Doing",
+        "time": "2018-01-10"
+      }
+    ],
+    "members": [
+      "dphilipsog",
+      "Michael Ho",
+      "Marta Garnelo",
+      "Jackson Wright"
+    ]
+  },
+  "5a4cf20858260d304a47b9d1": {
+    "name": "A4-Flight Delays",
+    "actions": [
+      {
+        "member": "Bobi",
+        "type": "updateCard",
+        "action_name": "Done",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Bobi",
+        "type": "updateCard",
+        "action_name": "Apply consistent formatting to all pages (9)",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Bobi",
+        "type": "commentCard",
+        "action_name": "Done",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Zain Ul Abideen Shahid",
+        "type": "updateCard",
+        "action_name": "Add axis labels to the Airlines page chart",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Bobi",
+        "type": "addMemberToCard",
+        "action_name": "Add axis labels to the Airlines page chart",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Bobi",
+        "type": "updateCard",
+        "action_name": "Sprint 2 Backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Bobi",
+        "type": "updateCard",
+        "action_name": "Sprint 2 Backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Bobi",
+        "type": "updateCard",
+        "action_name": "Done",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Bobi",
+        "type": "updateCard",
+        "action_name": "Apply consistent directory structure to all pages (3)",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Bobi",
+        "type": "updateCard",
+        "action_name": "Sprint 2 Backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Bobi",
+        "type": "addMemberToCard",
+        "action_name": "Apply consistent directory structure to all pages",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Bobi",
+        "type": "updateCard",
+        "action_name": "Done",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Bobi",
+        "type": "updateCard",
+        "action_name": "Remove styles and scripts from Plane_Type\\index.html (3)",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Bobi",
+        "type": "addMemberToCard",
+        "action_name": "Remove styles and scripts from Plane_Type\\index.html (3)",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Bobi",
+        "type": "updateCard",
+        "action_name": "Sprint 2 Backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Bobi",
+        "type": "updateCard",
+        "action_name": "Done",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Bobi",
+        "type": "updateCard",
+        "action_name": "Rename Plane_Type to PlaneType (2)",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Bobi",
+        "type": "updateCard",
+        "action_name": "Sprint 2 Backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Bobi",
+        "type": "addMemberToCard",
+        "action_name": "Rename Plane_Type to PlaneType",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Bobi",
+        "type": "updateCard",
+        "action_name": "Done",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Bobi",
+        "type": "updateCard",
+        "action_name": "Rename airlines.html to index.html",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Bobi",
+        "type": "updateCard",
+        "action_name": "Done",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Bobi",
+        "type": "updateCard",
+        "action_name": "Rename airport_business.html to index.html",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Bobi",
+        "type": "updateCard",
+        "action_name": "Sprint 2 Backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Bobi",
+        "type": "commentCard",
+        "action_name": "Sprint 2 Backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Bobi",
+        "type": "commentCard",
+        "action_name": "Sprint 2 Backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Bobi",
+        "type": "createCard",
+        "action_name": "Sprint 2 Backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Bobi",
+        "type": "createCard",
+        "action_name": "Sprint 2 Backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Bobi",
+        "type": "commentCard",
+        "action_name": "Sprint 2 Backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Bobi",
+        "type": "addMemberToCard",
+        "action_name": "Rename airlines.html to index.html",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Bobi",
+        "type": "commentCard",
+        "action_name": "Sprint 2 Backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Bobi",
+        "type": "addMemberToCard",
+        "action_name": "Rename airport_business.html to index.html",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Bobi",
+        "type": "createCard",
+        "action_name": "Sprint 2 Backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Bobi",
+        "type": "createCard",
+        "action_name": "Sprint 2 Backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Bobi",
+        "type": "updateCard",
+        "action_name": "Done",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Bobi",
+        "type": "updateCard",
+        "action_name": "Include both the global CSS and page-specific CSS on every page (2)",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Bobi",
+        "type": "commentCard",
+        "action_name": "Sprint 2 Backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Bobi",
+        "type": "updateCard",
+        "action_name": "Sprint 2 Backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Bobi",
+        "type": "removeMemberFromCard",
+        "action_name": "include both stylesheet references to pages (2)",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Bobi",
+        "type": "removeMemberFromCard",
+        "action_name": "include both stylesheet references to pages (2)",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Bobi",
+        "type": "removeMemberFromCard",
+        "action_name": "include both stylesheet references to pages (2)",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Bobi",
+        "type": "createCard",
+        "action_name": "Sprint 2 Backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Bobi",
+        "type": "createCard",
+        "action_name": "Sprint 2 Backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Bobi",
+        "type": "updateCard",
+        "action_name": "Sprint 2 Backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Bobi",
+        "type": "createCard",
+        "action_name": "Sprint 2 Backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Bobi",
+        "type": "updateCard",
+        "action_name": "Sprint 2 Backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Bobi",
+        "type": "updateCard",
+        "action_name": "Sprint 2 Backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Bobi",
+        "type": "commentCard",
+        "action_name": "Sprint 2 Backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Bobi",
+        "type": "updateCard",
+        "action_name": "Sprint 2 Backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Bobi",
+        "type": "commentCard",
+        "action_name": "Sprint 2 Backlog",
+        "time": "2018-01-11"
+      }
+    ],
+    "members": [
+      "Zain Ul Abideen Shahid",
+      "Bobi"
+    ]
+  },
+  "5a5000814017ad42e45d6961": {
+    "name": "B1 Domestic Social Policy Team",
+    "actions": [
+      {
+        "member": "Josh Ferguson",
+        "type": "addMemberToCard",
+        "action_name": "8 Create Visualization #2 - Overview Timelines",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Aneliese Palmer",
+        "type": "updateCard",
+        "action_name": "Product Backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Aneliese Palmer",
+        "type": "updateCard",
+        "action_name": "2 Create header and body font style changes",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Josh Ferguson",
+        "type": "updateCard",
+        "action_name": "Product Backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Josh Ferguson",
+        "type": "updateCard",
+        "action_name": "3 Document Code",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Josh Ferguson",
+        "type": "updateCard",
+        "action_name": "8 Make it so maps click and switch out",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Josh Ferguson",
+        "type": "updateCard",
+        "action_name": "Sprint 1 Backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Josh Ferguson",
+        "type": "updateCard",
+        "action_name": "Sprint 1 Backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Josh Ferguson",
+        "type": "createCard",
+        "action_name": "Sprint 1 Backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Josh Ferguson",
+        "type": "updateCard",
+        "action_name": "Sprint 1 Backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Josh Ferguson",
+        "type": "updateCard",
+        "action_name": "Sprint 1 Backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Josh Ferguson",
+        "type": "updateCard",
+        "action_name": "Sprint 1 Backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Josh Ferguson",
+        "type": "updateCard",
+        "action_name": "Sprint 1 Backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Josh Ferguson",
+        "type": "updateCard",
+        "action_name": "Sprint 1 Backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Josh Ferguson",
+        "type": "updateCard",
+        "action_name": "Sprint 1 Backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Josh Ferguson",
+        "type": "updateCard",
+        "action_name": "Sprint 1 Backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Josh Ferguson",
+        "type": "updateCard",
+        "action_name": "Sprint 1 Backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Josh Ferguson",
+        "type": "updateCard",
+        "action_name": "Sprint 1 Backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Aneliese Palmer",
+        "type": "updateCard",
+        "action_name": "Sprint 1 Backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Josh Ferguson",
+        "type": "updateCard",
+        "action_name": "Sprint 1 Backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Josh Ferguson",
+        "type": "updateCard",
+        "action_name": "Sprint 1 Backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Josh Ferguson",
+        "type": "updateCard",
+        "action_name": "Sprint 1 Backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Josh Ferguson",
+        "type": "updateCard",
+        "action_name": "Sprint 1 Backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Josh Ferguson",
+        "type": "updateCard",
+        "action_name": "Sprint 1 Backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Josh Ferguson",
+        "type": "updateCard",
+        "action_name": "Sprint 1 Backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Josh Ferguson",
+        "type": "updateCard",
+        "action_name": "Sprint 1 Backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Josh Ferguson",
+        "type": "updateCard",
+        "action_name": "Sprint 1 Backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Josh Ferguson",
+        "type": "updateCard",
+        "action_name": "Sprint 1 Backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Josh Ferguson",
+        "type": "updateCard",
+        "action_name": "Sprint 1 Backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Josh Ferguson",
+        "type": "updateCard",
+        "action_name": "Sprint 1 Backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Josh Ferguson",
+        "type": "updateCard",
+        "action_name": "Sprint 1 Backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Josh Ferguson",
+        "type": "updateCard",
+        "action_name": "Sprint 1 Backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Josh Ferguson",
+        "type": "updateCard",
+        "action_name": "Sprint 1 Backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Aneliese Palmer",
+        "type": "createCard",
+        "action_name": "Sprint 1 Backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Aneliese Palmer",
+        "type": "createCard",
+        "action_name": "Sprint 1 Backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Aneliese Palmer",
+        "type": "createCard",
+        "action_name": "Sprint 1 Backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Josh Ferguson",
+        "type": "updateCard",
+        "action_name": "Doing",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Josh Ferguson",
+        "type": "updateCard",
+        "action_name": "Doing",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Josh Ferguson",
+        "type": "updateCard",
+        "action_name": "Do regression on data",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Josh Ferguson",
+        "type": "updateCard",
+        "action_name": "Doing",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Aneliese Palmer",
+        "type": "updateCard",
+        "action_name": "Sprint 1 Backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Aneliese Palmer",
+        "type": "updateCard",
+        "action_name": "Sprint 1 Backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Aneliese Palmer",
+        "type": "updateCard",
+        "action_name": "Sprint 1 Backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Aneliese Palmer",
+        "type": "updateCard",
+        "action_name": "Sprint 1 Backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Aneliese Palmer",
+        "type": "updateCard",
+        "action_name": "Sprint 1 Backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Aneliese Palmer",
+        "type": "updateCard",
+        "action_name": "Sprint 1 Backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Aneliese Palmer",
+        "type": "updateCard",
+        "action_name": "Sprint 1 Backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Aneliese Palmer",
+        "type": "updateCard",
+        "action_name": "Sprint 1 Backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Aneliese Palmer",
+        "type": "updateCard",
+        "action_name": "Sprint 1 Backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Aneliese Palmer",
+        "type": "updateCard",
+        "action_name": "Sprint 1 Backlog",
+        "time": "2018-01-11"
+      }
+    ],
+    "members": [
+      "Aneliese Palmer",
+      "Josh Ferguson"
+    ]
+  },
+  "5a5017ab83962a8204320c0e": {
+    "name": "B3 - Fake News",
+    "actions": [
+      {
+        "member": "Arjun Bisen",
+        "type": "deleteCard",
+        "action_name": "User stories",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Arjun Bisen",
+        "type": "updateCard",
+        "action_name": "User stories",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Arjun Bisen",
+        "type": "createCard",
+        "action_name": "Sprint Backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Arjun Bisen",
+        "type": "updateCard",
+        "action_name": "Doing",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Arjun Bisen",
+        "type": "updateCard",
+        "action_name": "Doing",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Arjun Bisen",
+        "type": "updateCard",
+        "action_name": "Doing",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Arjun Bisen",
+        "type": "updateCard",
+        "action_name": "Sprint Backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Arjun Bisen",
+        "type": "deleteCard",
+        "action_name": "Sprint Backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Arjun Bisen",
+        "type": "deleteCard",
+        "action_name": "Sprint Backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Arjun Bisen",
+        "type": "deleteCard",
+        "action_name": "Sprint Backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Arjun Bisen",
+        "type": "deleteCard",
+        "action_name": "Sprint Backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Arjun Bisen",
+        "type": "updateCard",
+        "action_name": "Sprint Backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Arjun Bisen",
+        "type": "makeAdminOfBoard",
+        "action_name": null,
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Arjun Bisen",
+        "type": "makeAdminOfBoard",
+        "action_name": null,
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Arjun Bisen",
+        "type": "makeAdminOfBoard",
+        "action_name": null,
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Arjun Bisen",
+        "type": "makeAdminOfBoard",
+        "action_name": null,
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Jake",
+        "type": "updateCard",
+        "action_name": "Doing",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Arjun Bisen",
+        "type": "deleteCard",
+        "action_name": "Doing",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Arjun Bisen",
+        "type": "deleteCard",
+        "action_name": "Doing",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Arjun Bisen",
+        "type": "updateCard",
+        "action_name": "Doing",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Arjun Bisen",
+        "type": "addMemberToCard",
+        "action_name": "Get buttons working on Vis 4",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Arjun Bisen",
+        "type": "createCard",
+        "action_name": "Doing",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Arjun Bisen",
+        "type": "deleteCard",
+        "action_name": "Doing",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Arjun Bisen",
+        "type": "updateCard",
+        "action_name": "Doing",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Arjun Bisen",
+        "type": "updateCard",
+        "action_name": "Doing",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Arjun Bisen",
+        "type": "updateCard",
+        "action_name": "Doing",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Arjun Bisen",
+        "type": "updateCard",
+        "action_name": "Done",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Arjun Bisen",
+        "type": "updateCard",
+        "action_name": "Done",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Arjun Bisen",
+        "type": "updateCard",
+        "action_name": "Done",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Arjun Bisen",
+        "type": "updateCard",
+        "action_name": "Done",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Arjun Bisen",
+        "type": "updateCard",
+        "action_name": "Done",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Arjun Bisen",
+        "type": "updateCard",
+        "action_name": "Done",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Arjun Bisen",
+        "type": "updateCard",
+        "action_name": "Done",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Arjun Bisen",
+        "type": "updateCard",
+        "action_name": "Done",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Arjun Bisen",
+        "type": "updateCard",
+        "action_name": "Done",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Arjun Bisen",
+        "type": "updateCard",
+        "action_name": "Done",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Arjun Bisen",
+        "type": "updateCard",
+        "action_name": "Done",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Arjun Bisen",
+        "type": "addMemberToCard",
+        "action_name": "Clearly articulate meaning of Google Trends data",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Arjun Bisen",
+        "type": "createCard",
+        "action_name": "Doing",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Arjun Bisen",
+        "type": "removeMemberFromCard",
+        "action_name": "Write narrative more clearly on",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Arjun Bisen",
+        "type": "updateCard",
+        "action_name": "Doing",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Arjun Bisen",
+        "type": "updateCard",
+        "action_name": "Doing",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Arjun Bisen",
+        "type": "updateCard",
+        "action_name": "Write narrative more clearly on vis 4",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Arjun Bisen",
+        "type": "createCard",
+        "action_name": "Doing",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Arjun Bisen",
+        "type": "updateCard",
+        "action_name": "Doing",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Jake",
+        "type": "updateCard",
+        "action_name": "User stories",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Arjun Bisen",
+        "type": "updateCard",
+        "action_name": "Sprint Backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Arjun Bisen",
+        "type": "updateCard",
+        "action_name": "Write narrative more clearly on vis 4",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Arjun Bisen",
+        "type": "createCard",
+        "action_name": "Doing",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Arjun Bisen",
+        "type": "addMemberToCard",
+        "action_name": "Write narrative more clearly on vis 4",
+        "time": "2018-01-11"
+      }
+    ],
+    "members": [
+      "Jake",
+      "Arjun Bisen"
+    ]
+  },
+  "5a50009f6cff3bf4290ef839": {
+    "name": "B4-we-come-up-for-a-topic",
+    "actions": [
+      {
+        "member": "#Qjq1b5X",
+        "type": "updateCard",
+        "action_name": "Sprint 2 backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "#Qjq1b5X",
+        "type": "updateCard",
+        "action_name": "Sprint 2 backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "#Qjq1b5X",
+        "type": "updateCard",
+        "action_name": "Sprint 2 backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "#Qjq1b5X",
+        "type": "updateCard",
+        "action_name": "Sprint 2 backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "#Qjq1b5X",
+        "type": "updateCard",
+        "action_name": "Sprint 2 backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "#Qjq1b5X",
+        "type": "updateCard",
+        "action_name": "Sprint 2 backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "#Qjq1b5X",
+        "type": "updateCard",
+        "action_name": "Sprint 2 backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "#Qjq1b5X",
+        "type": "updateCard",
+        "action_name": "Sprint 2 backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "#Qjq1b5X",
+        "type": "updateCard",
+        "action_name": "Sprint 2 backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "#Qjq1b5X",
+        "type": "updateCard",
+        "action_name": "Sprint 2 backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "#Qjq1b5X",
+        "type": "updateCard",
+        "action_name": "Sprint 2 backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "#Qjq1b5X",
+        "type": "updateList",
+        "action_name": "Sprint 2 backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "#Qjq1b5X",
+        "type": "updateCard",
+        "action_name": "Sprint 0 backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "#Qjq1b5X",
+        "type": "updateCard",
+        "action_name": "Sprint 0 backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "#Qjq1b5X",
+        "type": "updateCard",
+        "action_name": "Sprint 0 backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "#Qjq1b5X",
+        "type": "updateCard",
+        "action_name": "Sprint 0 backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "#Qjq1b5X",
+        "type": "updateCard",
+        "action_name": "Sprint 0 backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "#Qjq1b5X",
+        "type": "addMemberToCard",
+        "action_name": "[8] Make top navigation bar common to all pages: research how to create a block that can be reproduced from page to page",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "#Qjq1b5X",
+        "type": "updateCard",
+        "action_name": "Sprint 0 backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "#Qjq1b5X",
+        "type": "updateCard",
+        "action_name": "Done",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "#Qjq1b5X",
+        "type": "updateCard",
+        "action_name": "Done",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "#Qjq1b5X",
+        "type": "updateCard",
+        "action_name": "Debug index webpage style",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "#Qjq1b5X",
+        "type": "addMemberToCard",
+        "action_name": "[5] Make page stylesheet common to all pages",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "#Qjq1b5X",
+        "type": "updateCard",
+        "action_name": "Sprint 0 backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "#Qjq1b5X",
+        "type": "updateCard",
+        "action_name": "Sprint 0 backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "#Qjq1b5X",
+        "type": "updateCard",
+        "action_name": "Sprint 0 backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "#Qjq1b5X",
+        "type": "addMemberToCard",
+        "action_name": "[3] Find style in a professional visualization page",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "#Qjq1b5X",
+        "type": "removeMemberFromCard",
+        "action_name": "[3] Find style in a professional visualization page",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "#Qjq1b5X",
+        "type": "updateCard",
+        "action_name": "Sprint 0 backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "#Qjq1b5X",
+        "type": "updateCard",
+        "action_name": "Sprint 0 backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "#Qjq1b5X",
+        "type": "updateCard",
+        "action_name": "Sprint 0 backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "#Qjq1b5X",
+        "type": "updateCard",
+        "action_name": "Sprint 0 backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "#Qjq1b5X",
+        "type": "addMemberToCard",
+        "action_name": "Upload dataset info for bitcoin activity on data_links.txt [Stephane]",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "#Qjq1b5X",
+        "type": "updateCard",
+        "action_name": "Sprint 0 backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "#Qjq1b5X",
+        "type": "updateCard",
+        "action_name": "Sprint 0 backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "#Qjq1b5X",
+        "type": "updateCard",
+        "action_name": "Sprint 0 backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "#Qjq1b5X",
+        "type": "updateCard",
+        "action_name": "Sprint 0 backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "#Qjq1b5X",
+        "type": "createCard",
+        "action_name": "Sprint 0 backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "#Qjq1b5X",
+        "type": "createCard",
+        "action_name": "Sprint 0 backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "#Qjq1b5X",
+        "type": "createCard",
+        "action_name": "Sprint 0 backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "#Qjq1b5X",
+        "type": "createCard",
+        "action_name": "Sprint 0 backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "#Qjq1b5X",
+        "type": "createCard",
+        "action_name": "Doing",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "#Qjq1b5X",
+        "type": "updateCard",
+        "action_name": "Make styles common to all pages",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "#Qjq1b5X",
+        "type": "updateCard",
+        "action_name": "Sprint 0 backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "#Qjq1b5X",
+        "type": "updateCard",
+        "action_name": "Make top navigation bar common to all pages: research how to create a block that can be reproduced from page to page",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "#Qjq1b5X",
+        "type": "updateCard",
+        "action_name": "Sprint 0 backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "#Qjq1b5X",
+        "type": "updateCard",
+        "action_name": "Debug index webpage style",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "#Qjq1b5X",
+        "type": "updateCard",
+        "action_name": "Find style in a professional visualization page",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "#Qjq1b5X",
+        "type": "createCard",
+        "action_name": "Doing",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "#Qjq1b5X",
+        "type": "createCard",
+        "action_name": "Doing",
+        "time": "2018-01-11"
+      }
+    ],
+    "members": [
+      "#Qjq1b5X"
+    ]
+  },
+  "5a4fa8aa80b013868bbe03cf": {
+    "name": "Team B2",
+    "actions": [
+      {
+        "member": "Conor Sanchez",
+        "type": "updateCard",
+        "action_name": "As a student focusing on development economics, I want a product that shows some trends overtime, so that I can take away some salient point.",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Conor Sanchez",
+        "type": "updateCard",
+        "action_name": "As a student utilizing IMF data, I want to be able to combine scattered data from different sources into one, so that I can analyze trend across different macroeconomic variables.",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Conor Sanchez",
+        "type": "updateCard",
+        "action_name": "Sprint 2 Backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Conor Sanchez",
+        "type": "updateCard",
+        "action_name": "[2] Identify three to four visualizations that could be useful",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Conor Sanchez",
+        "type": "updateCard",
+        "action_name": "Done",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Conor Sanchez",
+        "type": "updateCard",
+        "action_name": "[0] Select visualization for World FDI",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Conor Sanchez",
+        "type": "updateCard",
+        "action_name": "Sprint 2 Backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Conor Sanchez",
+        "type": "updateCard",
+        "action_name": "Sprint 2 Backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Conor Sanchez",
+        "type": "updateCard",
+        "action_name": "Sprint 2 Backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Conor Sanchez",
+        "type": "updateCard",
+        "action_name": "Sprint 2 Backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Conor Sanchez",
+        "type": "updateCard",
+        "action_name": "Sprint 2 Backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Conor Sanchez",
+        "type": "updateCard",
+        "action_name": "Sprint 2 Backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Conor Sanchez",
+        "type": "updateCard",
+        "action_name": "Create visualization for FDI (Mexico)",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Conor Sanchez",
+        "type": "updateCard",
+        "action_name": "Sprint 2 Backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Conor Sanchez",
+        "type": "updateCard",
+        "action_name": "Select visualization for World FDI",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Conor Sanchez",
+        "type": "updateCard",
+        "action_name": "User Stories",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Conor Sanchez",
+        "type": "updateCard",
+        "action_name": "[21] Have all visualizations ready by Saturday morning.",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Conor Sanchez",
+        "type": "updateCard",
+        "action_name": "User Stories",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Conor Sanchez",
+        "type": "createList",
+        "action_name": "For later",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Conor Sanchez",
+        "type": "updateCard",
+        "action_name": "Sprint 2 Backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Conor Sanchez",
+        "type": "updateCard",
+        "action_name": "Sprint 2 Backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Conor Sanchez",
+        "type": "updateCard",
+        "action_name": "Sprint 2 Backlog",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Conor Sanchez",
+        "type": "updateCard",
+        "action_name": "Tasks",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Conor Sanchez",
+        "type": "createCard",
+        "action_name": "Tasks",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Conor Sanchez",
+        "type": "updateCard",
+        "action_name": "Tasks",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Conor Sanchez",
+        "type": "updateCard",
+        "action_name": "Tasks",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Conor Sanchez",
+        "type": "updateCard",
+        "action_name": "Tasks",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Conor Sanchez",
+        "type": "updateCard",
+        "action_name": "Tasks",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Conor Sanchez",
+        "type": "updateCard",
+        "action_name": "Tasks",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Conor Sanchez",
+        "type": "updateCard",
+        "action_name": "Tasks",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Conor Sanchez",
+        "type": "updateCard",
+        "action_name": "Tasks",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Conor Sanchez",
+        "type": "updateCard",
+        "action_name": "Tasks",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Conor Sanchez",
+        "type": "updateCard",
+        "action_name": "Tasks",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Conor Sanchez",
+        "type": "updateCard",
+        "action_name": "Tasks",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Conor Sanchez",
+        "type": "updateCard",
+        "action_name": "Tasks",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Conor Sanchez",
+        "type": "updateCard",
+        "action_name": "Done",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Conor Sanchez",
+        "type": "updateCard",
+        "action_name": "Look at data sets between today and tomorrow (Tuesday and Wednesday)",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Conor Sanchez",
+        "type": "updateCard",
+        "action_name": "Tasks",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Conor Sanchez",
+        "type": "updateCard",
+        "action_name": "Tasks",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Conor Sanchez",
+        "type": "updateCard",
+        "action_name": "Tasks",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Conor Sanchez",
+        "type": "updateCard",
+        "action_name": "Done",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Conor Sanchez",
+        "type": "updateCard",
+        "action_name": "Tasks",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Conor Sanchez",
+        "type": "updateCard",
+        "action_name": "Tasks",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Conor Sanchez",
+        "type": "updateCard",
+        "action_name": "User Stories",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Conor Sanchez",
+        "type": "updateCard",
+        "action_name": "User Stories",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Conor Sanchez",
+        "type": "createCard",
+        "action_name": "Tasks",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Conor Sanchez",
+        "type": "createCard",
+        "action_name": "Tasks",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Conor Sanchez",
+        "type": "createCard",
+        "action_name": "Tasks",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Conor Sanchez",
+        "type": "updateCard",
+        "action_name": "User Stories",
+        "time": "2018-01-11"
+      },
+      {
+        "member": "Conor Sanchez",
+        "type": "updateCard",
+        "action_name": "User Stories",
+        "time": "2018-01-11"
+      }
+    ],
+    "members": [
+      "Conor Sanchez"
+    ]
+  }
+}
