@@ -13,7 +13,7 @@ BarChart.prototype.initVis = function() {
     vis.margin = { top: 30, right: 20, bottom: 150, left: 50 };
 
     vis.width = $('#' + vis.parentElement).width() - vis.margin.left - vis.margin.right,
-        vis.height = 400 - vis.margin.top - vis.margin.bottom;
+        vis.height = 350 - vis.margin.top - vis.margin.bottom;
 
     vis.svg = d3.select('#' + vis.parentElement)
         .append('svg')
@@ -40,13 +40,8 @@ BarChart.prototype.initVis = function() {
         .attr("class", "x-axis axis")
         .attr("transform", "translate(0," + vis.height + ")");
 
-    vis.yAxisLabel = vis.svg.append("g")
-        .attr("class", "y-axis")
-        .append('text')
-        .attr('class', 'axis-label')
-        .attr("text-anchor", "middle")  // this makes it easy to centre the text as the transform is applied to the anchor
-        .attr("transform", "translate("+ (15) +","+ (vis.height / 4 + 30) +")rotate(-90)")  // text is drawn off the screen top left, move down and out and rotate
-        .attr('class', 'axis-label');
+    vis.svg.append("g")
+        .attr("class", "y-axis");
 
     vis.toolTip = d3.tip()
         .attr('class', 'd3-tip')
@@ -68,7 +63,7 @@ BarChart.prototype.wrangleData = function() {
     }
 
     vis.displayData = vis.displayData.filter(function(d) {
-        return (d.ts >= chosenDates[0] && d.ts <= chosenDates[1]);
+        return (d.ts >= slackChosenDates[0] && d.ts <= slackChosenDates[1]);
     });
 
     vis.channelVal = $('#channel-selector').val();
@@ -175,8 +170,6 @@ BarChart.prototype.updateData = function() {
 
     vis.svg.select(".x-axis").transition().duration(1000).call(vis.xAxis)
         .selectAll("text")
-        //.attr("y", 50)
-        //.attr("x", -30)
         .attr("dy", "-.2em")
         .attr("dx", "-.9em")
         .attr("transform", "rotate(-60)")

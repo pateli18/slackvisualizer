@@ -10,54 +10,92 @@
 	<link rel="stylesheet" href="css/libraries/bootstrap.min.css">
 	<link rel="stylesheet" href="css/libraries/bootstrap-multiselect.css">
 	<link href="css/libraries/nouislider.min.css" rel="stylesheet">
+	<link rel="stylesheet" href="css/libraries/jquery.fullpage.css">
 	<link rel="stylesheet" href="css/libraries/jquery-ui.min.css">
 	<link rel="stylesheet" href="css/style.css">
 </head>
 <body>
 
-	<div class="section-header">Slack Participation Visualizer</div>
+	<div id="fullPage">
+		<section class="section">
 
-	<div class="container">
-		<div class="row">
-			<select class="form-control interaction-header" id="section-selector" onchange="updateCharts()">
-				<option value="all">All Sections</option>
-				<option value="A">Section A</option>
-				<option value="B">Section B</option>
-			</select>
+		<div class="section-header">Slack Participation Visualizer</div>
 
-			<select class="form-control interaction-header" id="channel-selector" multiple="multiple" onchange="updateCharts()">
-			</select>
+		<div class="container">
+			<div class="row">
+				<select class="form-control interaction-header" id="section-selector" onchange="updateCharts()">
+					<option value="all">All Sections</option>
+					<option value="A">Section A</option>
+					<option value="B">Section B</option>
+				</select>
 
-			<select class="form-control interaction-header" id="metric-selector" onchange="updateCharts()">
-				<option value="post">Posts</option>
-				<option value="words">Words</option>
-				<option value="characters">Characters</option>
-			</select>
+				<select class="form-control interaction-header" id="channel-selector" multiple="multiple" onchange="updateCharts()">
+				</select>
 
-			<span id="date_0" class="date-label"></span>
-			<div id="slider"></div>
-			<span id="date_1" class="date-label"></span>
+				<select class="form-control interaction-header" id="metric-selector" onchange="updateCharts()">
+					<option value="post">Posts</option>
+					<option value="words">Words</option>
+					<option value="characters">Characters</option>
+				</select>
+
+				<span id="slack_date_0" class="date-label date_0"></span>
+				<div id="slack-slider"></div>
+				<span id="slack_date_1" class="date-label date_1"></span>
+			</div>
+
+			<div class="row">
+				<div class="col-md-6">
+					<div id="total-comparison-chart"></div>
+				</div>
+				<div class="col-md-6">
+					<div id="student-viewer-chart"></div>
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="col-md-6">
+					<div id="time-comparison-chart"></div>
+				</div>
+				<div class="col-md-6">
+					<div id="comment-channel" class="interaction-header"></div>
+					<div id="comment-date" class="interaction-header"></div>
+					<div id="comment-text"></div>
+				</div>
+			</div>
 		</div>
+		</section>
 
-		<div class="row">
-			<div class="col-md-6">
-				<div id="total-comparison-chart"></div>
-			</div>
-			<div class="col-md-6">
-				<div id="student-viewer-chart"></div>
-			</div>
-		</div>
+		<section class="section">
 
-		<div class="row">
-			<div class="col-md-6">
-				<div id="time-comparison-chart"></div>
+			<div class="section-header">Trello Participation Visualizer</div>
+
+			<div class="container">
+
+				<div class="row">
+					<select class="form-control interaction-header" id="group-selector" onchange="updateTrelloCharts()">
+					</select>
+
+					<select class="form-control interaction-header" id="member-selector" onchange="updateTrelloCharts()">
+					</select>
+
+					<select class="form-control interaction-header" id="action-selector" multiple="multiple" onchange="updateTrelloCharts()">
+					</select>
+
+					<span id="trello_date_0" class="date-label date_0"></span>
+					<div id="trello-slider"></div>
+					<span id="trello_date_1" class="date-label date_1"></span>
+				</div>
+
+				<div class="row">
+					<div class="col-md-6">
+						<div id="trello-time-comparison-chart"></div>
+					</div>
+					<div class="col-md-6">
+						<div id="trello-member-comparison-chart"></div>
+					</div>
+				</div>
 			</div>
-			<div class="col-md-6">
-				<div id="comment-channel" class="interaction-header"></div>
-				<div id="comment-date" class="interaction-header"></div>
-				<div id="comment-text"></div>
-			</div>
-		</div>
+		</section>
 	</div>
 	<!-- Load JS libraries -->
 	<script src="js/libraries/jquery.min.js"></script>
@@ -67,12 +105,15 @@
 	<script src="js/libraries/d3-tip.js"></script>
 	<script src="js/libraries/jquery-ui.min.js"></script>
 	<script src="js/libraries/nouislider.min.js"></script>
+	<script src="js/libraries/queue.min.js"></script>
+	<script src="js/libraries/jquery.fullpage.min.js"></script>
 
 	<!-- Handlers and visualizations -->
 	<script src="js/main.js"></script>
 	<script src="js/visualizations/vis-totalbar.js"></script>
 	<script src="js/visualizations/vis-timeline.js"></script>
 	<script src="js/visualizations/vis-studentposts.js"></script>
+	<script src="js/visualizations/vis-trellobar.js"></script>
 
 </body>
 </html>

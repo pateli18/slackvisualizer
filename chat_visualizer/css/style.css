@@ -114,13 +114,13 @@ body {
     overflow: hidden;
 }
 
-#slider {
+.noUi-target {
     width: 200px;
     display: inline-block;
     margin-bottom: -5px;
 }
 
-#slider .noUi-connect {
+.noUi-connect {
     background: black;
 }
 
@@ -136,12 +136,12 @@ body {
     padding-top: 5px;
 }
 
-#date_0 {
+.date_0 {
     margin-right: 15px;
     margin-left: 20px;
 }
 
-#date_1 {
+.date_1 {
     margin-left: 15px;
 }
 

@@ -11,7 +11,7 @@ var vis=this;
 
     vis.margin = { top: 30, right: 20, bottom: 150, left: 50 };
     vis.width = $('#' + vis.parentElement).width() - vis.margin.left - vis.margin.right;
-    vis.height = 400 - vis.margin.top - vis.margin.bottom;
+    vis.height = 350 - vis.margin.top - vis.margin.bottom;
 
     vis.svg = d3.select("#" + vis.parentElement)
         .append("svg")
@@ -47,7 +47,7 @@ FrequencyChart.prototype.wrangleData = function() {
     });
 
     vis.displayData = vis.displayData.filter(function(d) {
-        return (d.ts >= chosenDates[0] && d.ts <= chosenDates[1]);
+        return (d.ts >= slackChosenDates[0] && d.ts <= slackChosenDates[1]);
     });
 
     vis.channelVal = $('#channel-selector').val();

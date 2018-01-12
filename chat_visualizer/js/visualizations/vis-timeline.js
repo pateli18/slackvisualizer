@@ -71,7 +71,7 @@ LineChart.prototype.wrangleData = function() {
         vis.displayData = vis.data;
     }
 
-    vis.xScale.domain(chosenDates);
+    vis.xScale.domain(slackChosenDates);
 
     vis.channelVal = $('#channel-selector').val();
     if (!Array.isArray(vis.channelVal)) {
@@ -106,7 +106,7 @@ LineChart.prototype.wrangleData = function() {
     vis.displayData.forEach(function(d) {
         var allDateValues = [];
         var counter = 0;
-        dateList.forEach(function(date) {
+        slackDateList.forEach(function(date) {
            if (counter < d.values.length && date.getTime() === new Date(d.values[counter].key).getTime()) {
                allDateValues.push({date:date, value: d.values[counter].value});
                counter += 1;

@@ -10,7 +10,7 @@ key = os.environ['TRELLOKEY']
 token = os.environ['TRELLOTOKEN']
 
 base_url = "https://api.trello.com/1/boards/"
-url_params = {'key':key, 'token':token, 'actions':'all'}
+url_params = {'key':key, 'token':token}
 
 def get_action_data():
 	data = {}
@@ -24,8 +24,12 @@ def get_action_data():
 
 		board_data['actions'] = []
 		board_data['members'] = set()
-		
-		for action in board_response_data['actions']:
+
+		url_params['limit'] = 1000
+		actions_response = requests.get(base_url + board + '/actions', params = url_params)
+		actions_response_data = json.loads(actions_response.text)
+
+		for action in actions_response_data:
 			member = action['memberCreator']['fullName']
 			board_data['members'].add(member)
 			if 'list' in action['data'].keys():
@@ -36,6 +40,7 @@ def get_action_data():
 				action_name = None
 			board_data['actions'].append({'member':member, 'type':action['type'], 'action_name':action_name, 'time':action['date'][:10]})
 			
+		print(len(board_data['actions']))
 		board_data['members'] = list(board_data['members']) 
 		data[board] = board_data
 	return data
